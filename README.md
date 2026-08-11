@@ -1,13 +1,15 @@
 # Hotel-Data-analysis-using-Python-
-# 🏨 Blue Star Hotels Data Analysis Project
+#  Blue Star Hotels Data Analysis Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing hotel booking data to uncover meaningful business insights related to **bookings, occupancy, revenue, room categories, hotel performance, and booking platforms**.
 
 The analysis was performed using Python and Pandas, covering the complete data analysis workflow from **data exploration and cleaning to transformation and insight generation**.
 
-## 🎯 Objectives
+This project is a **good addition to your Data Analyst fresher portfolio** because it demonstrates actual data cleaning, transformation, EDA, and business insight generation rather than just machine-learning models.
+
+##  Objectives
 
 - Analyze hotel booking patterns
 - Calculate occupancy rates
@@ -28,7 +30,7 @@ The project uses 5 CSV datasets:
 - `fact_aggregated_bookings.csv`
 - `fact_bookings.csv`
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### 1. Data Exploration
 - Loaded and explored multiple CSV datasets
@@ -63,7 +65,7 @@ The project analyzes:
 - Average hotel rating by city
 - Revenue by booking platform
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Pandas**
@@ -74,7 +76,7 @@ The project analyzes:
 - Data Analysis
 - Exploratory Data Analysis (EDA)
 
-## 📊 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis
@@ -85,6 +87,18 @@ The project analyzes:
 - Handling Missing Values
 - Outlier Analysis
 - Generating Business Insights
+  ## structure
+  Blue-Star-Hotels-Analysis/
+│
+├── datasets/
+│   ├── dim_date.csv
+│   ├── dim_hotels.csv
+│   ├── dim_rooms.csv
+│   ├── fact_aggregated_bookings.csv
+│   └── fact_bookings.csv
+│
+├── hotels_analysis.ipynb
+└── README.md
 
-## 🚀 How to Run
+
 
